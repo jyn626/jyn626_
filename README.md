@@ -2,7 +2,7 @@
 
 <!-- <img height="244" width="100%" style="object-fit: cover;" src="https://github.com/user-attachments/assets/c1c86fe3-1d26-4521-a578-b96cfe7725d4"> -->
 
-# @dojimori 
+# @jyn626 
 - Freshman BSIT student <strong>@University of Science and Technology of Philippines</strong>.
 - I'm interested in `Software Development` and `Networking`.
 - Eager to learn more about `backend development`.
